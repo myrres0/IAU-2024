@@ -1,2 +1,7 @@
 notebook
 pandas
+statsmodels
+seaborn
+scipy
+matplotlib
+sklearn
